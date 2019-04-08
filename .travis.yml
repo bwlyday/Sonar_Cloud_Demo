@@ -4,6 +4,7 @@ jdk:
 
 addons:
   sonarcloud:
+    organization: bwlyday-github
     token: "d9584567d67cc1b3196e5fb1b1ad7ddf5fef2068"
 
 script:
